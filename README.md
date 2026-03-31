@@ -4,5 +4,5 @@ This are the Java Programs for
 ## [3. Patterns](https://github.com/PrasadDayal/Java/tree/main/Pattern)
 ## [4. String](https://github.com/PrasadDayal/Java/tree/main/String)
 ## [5. Sorting](https://github.com/PrasadDayal/Java/tree/main/Sorting)
-## [6. Searching Algorithm](https://github.com/PrasadDayal/Java/tree/main/Searching Algorithm)
+## [6. Searching Algorithm](https://github.com/PrasadDayal/Java/tree/main/SearchingAlgorithm)
 ## [7. Function](https://github.com/PrasadDayal/Java/tree/main/Function)
