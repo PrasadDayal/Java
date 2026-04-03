@@ -6,3 +6,4 @@ This are the Java Programs for
 ## [5. Searching Algorithm](https://github.com/PrasadDayal/Java/tree/main/Searching%20Algorithms)
 ## [6. Sorting](https://github.com/PrasadDayal/Java/tree/main/Sorting)
 ## [7. String](https://github.com/PrasadDayal/Java/tree/main/String)
+## [8. Two Pointer](https://github.com/PrasadDayal/Java/tree/main/Two_Pointers)
